@@ -58,7 +58,7 @@ NIKE-GLOBAL-MANUFACTURING-BI/
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/nike-global-manufacturing-bi.git
+   git clone https://github.com/ShivamShashank11/nike-global-manufacturing-bi
    Open Power BI Desktop and load dashboard/nike_global_dashboard.pbix
    ```
 
