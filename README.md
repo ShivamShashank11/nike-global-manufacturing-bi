@@ -50,6 +50,8 @@ NIKE-GLOBAL-MANUFACTURING-BI/
 
 ## 📸 Dashboard Preview
 
+![Dashboard](dashboard/nike.png)
+
 ![Dashboard](dashboard/dashboard.png)
 
 ---
